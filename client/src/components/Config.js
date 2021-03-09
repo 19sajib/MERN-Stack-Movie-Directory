@@ -9,7 +9,7 @@ export const API_KEY = 'User Your Own API KEY';
 
 export const IMAGE_URL ='http://image.tmdb.org/t/p/';
 
-export const SEARCH_URL = 'https://api.themoviedb.org/3/search/movie?api_key=844dba0bfd8f3a4f3799f6130ef9e335&query='
+export const SEARCH_URL = 'https://api.themoviedb.org/3/search/movie?api_key=Use Your Own API KEY='
 
 //Sizes: w300, w780, w1280, original
 export const BACKDROP_SIZE = 'w1280'
